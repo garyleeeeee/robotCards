@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+
+h1 {
+    font-family: 'Bangers', cursive !important;
+    letter-spacing: 2px;
+}
+
+p {
+    font-family: 'Bangers', cursive !important;
+}
+
+.dafont {
+    font-family: 'Bangers', cursive !important;
+}
